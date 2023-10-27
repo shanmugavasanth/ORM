@@ -39,8 +39,7 @@ class Football_PlayerAdmin(admin.ModelAdmin):
 ```
 ## OUTPUT
 
-README.md ![Alt text](<Screenshot 2023-10-13 183330.png>)
-
+![Alt text](<Screenshot 2023-10-13 183330.png>)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
